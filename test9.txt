@@ -1,0 +1,93 @@
+produs,tablou,12455,The Night,15000,Vultur Camelia,ulei,2
+client,3356,Fabro Marcu,Bucuresti nr 212,persoana juridica,SRL,24000
+produs,mobila,45673,fotoliu,1000,piele,1960,4
+produs,mobila,15673,dulap decorat cu sclipici,1000,lemn,2018,3
+broker,134,Petrescu Ionelia
+produs,tablou,46234,Felina,800,Mircea Patricia,acrilic,2010,2
+produs,bijuterie,85532,Inel cu safir,2500,aur alb,true,1999,5
+client,9874,Rusu Felicia,Panciu nr 353,persoana juridica,SA,30000
+interogare_produse,9874,Rusu Felicia
+solicita_produs,9874,Rusu Felicia,12455,16500
+broker,553,Mihalache Patrisia
+broker,133,Vasilache Miruna
+broker,811,Miron Elena
+interogare_produse,3356,Fabro Marcu
+solicita_produs,3356,Fabro Marcu,46234,1700
+solicita_produs,3356,Fabro Marcu,85532,2700
+solicita_produs,3356,Fabro Marcu,45673,1700
+produs,mobila,633345,masa,2000,lemn cires,1990,2
+produs,mobila,424674,masa,2500,sticla,2020,4
+client,3456,Pisica Silvia,Bucuresti nr 12,persoana fizica,12.03.1995
+produs,bijuterie,42949,Colier perle,1350,perle,true,2016,3
+produs,bijuterie,98898,Colier vintage,300,argint,false,2000,5
+client,2646,Cretu Amalia,Cluj-Napoca nr 235,persoana juridica,SRL,34000
+interogare_produse,2646,Cretu Amalia
+solicita_produs,2646,Cretu Amalia,12455,170000
+solicita_produs,2646,Cretu Amalia,42949,450
+client,7456,Dragomir Darius,Brasov nr 623,persoana fizica,18.03.1980
+interogare_produse,7456,Dragomir Darius
+broker,812,Hrib Cristian
+broker,815,Miron Iulius
+solicita_produs,7456,Dragomir Darius,42949,1370
+produs,tablou,78859,Sirena,800,Tudor Ionut,tempera,1890,3
+produs,tablou,78689,Misterul noptii,1000,Obi Teodor,tempera,1785,4
+produs,mobila,45323,scaun,450,lemn,1850,5
+produs,bijuterie,76789,bratara diamante,2500,aur,true,2021,3
+interogare_produse,3456,Pisica Silvia
+solicita_produs,3456,Pisica Silvia,12455,15500
+client,6453,Tagle Cosmin,Bacau nr 23,persoana fizica,25.12.1979
+client,1237,Tagle Izabela,Bacau nr 45,persoana fizica,06.07.2000
+produs,bijuterie,553422,cercei cu luna,500,argint,false,2005,3
+produs,mobila,46634,birou,450,lemn,1600,5
+produs,tablou,27667,Cerul,500,Vultur Camelia,ulei,2006,4
+produs,bijuterie,58332,cercei,300,argint,false,2010,2
+produs,bijuterie,65665,inel cu diamant,2350,aur alb,true,1997,3
+interogare_produse,6453,Tagle Cosmin
+interogare_produse,2646,Cretu Amalia
+solicita_produs,2646,Cretu Amalia,78689,1200
+solicita_produs,6453,Tagle Cosmin,78689,1200
+produs,mobila,45224,masa sticla,400,sticla,2019,2
+produs,mobila,77778,masa sticla,450,sticla,2020,3
+produs,tablou,82111,Visatorul,500,Toma Henry,ulei,2020,2
+produs,bijuterie,13132,inel,500,aur,false,2020,4
+produs,mobila,222333,canapea violet,800,burete,2020,3
+produs,mobila,222343,canapea albastra,800,burete,2020,3
+produs,tablou,51111,Vioara,500,Toma Henry,ulei,2020,2
+interogare_produse,2646,Cretu Amalia
+solicita_produs,2646,Cretu Amalia,58332,650
+interogare_produse,6453,Tagle Cosmin
+interogare_produse,1237,Tagle Izabela
+produs,bijuterie,55555,inel cu piatra lunii,350,argint,true,2000,3
+produs,bijuterie,22222,inel aur roz,550,aur,false,1997,2
+interogare_produse,2646,Cretu Amalia
+interogare_produse,3456,Pisica Silvia
+solicita_produs,3456,Pisica Silvia,58332,650
+interogare_produse,9874,Rusu Felicia
+solicita_produs,3456,Pisica Silvia,222333,900
+solicita_produs,3456,Pisica Silvia,222343,900
+solicita_produs,3456,Pisica Silvia,42949,2800
+solicita_produs,3456,Pisica Silvia,82111,850
+solicita_produs,6453,Tagle Cosmin,82111,550
+solicita_produs,2646,Cretu Amalia,65665,2400
+solicita_produs,9874,Rusu Felicia,222343,860
+solicita_produs,9874,Rusu Felicia,45224,660
+solicita_produs,9874,Rusu Felicia,5111,660
+interogare_produse,1237,Tagle Izabela
+solicita_produs,1237,Tagle Izabela,58332,550
+solicita_produs,1237,Tagle Izabela,15673,1550
+solicita_produs,1237,Tagle Izabela,46234,1850
+interogare_produse,3356,Fabro Marcu
+solicita_produs,3356,Fabro Marcu,65665,2700
+solicita_produs,3356,Fabro Marcu,58332,550
+solicita_produs,1237,Tagle Izabela,222333,950
+client,7456,Iancu Flavius,Constanta nr 63,persoana fizica,06.06.1986
+interogare_produse,7456,Iancu Flavius
+solicita_produs,7456,Iancu Flavius,12455,2700
+solicita_produs,7456,Iancu Flavius,222333,950
+solicita_produs,1237,Tagle Izabela,55555,550
+solicita_produs,7456,Iancu Flavius,15673,1200
+solicita_produs,3456,Pisica Silvia,55555,400
+solicita_produs,3456,Pisica Silvia,22222,550
+solicita_produs,7456,Iancu Flavius,65665,4000
+solicita_produs,7456,Iancu Flavius,12455,2700
+solicita_produs,1237,Tagle Izabela,22222,750

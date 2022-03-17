@@ -1,0 +1,39 @@
+Nume: Țălină Laura-Florina
+Grupa: 324CB
+Proiect final POO
+
+Modelarea entitatilor
+Produs
+	Contine un constructor fara parametrii, setteri si getteri.
+	Este clasa parinte pentru: Mobila, Bijuterie, Tablou.
+	Pentru crearea unei entitati de tip Mobila, Bijuterie, Tablou,
+	am folosit design pattern-ul Builder. Sunt
+	folosite clasele MobilaBuilder, TablouBuilder, BijuterieBuilder, 
+	care au o referinta la un obiect de tipul respectiv, adauga valori
+	pentru atributele acestuia si apoi returneaza obiectul.
+
+	Pentru crearea produselor se foloseste design pattern ul
+	Factory.
+
+Client
+	Client este clasa parinte pentru clasele PersoanaFizica si 
+	PersoanaJuridica. Pentru clasele copil, este implementat design pattern-ul
+	Builer, avand clasele PersoanaFizicaBuilder si PersoanaJuridicaBuilder.
+	In client este tinut un HashMap, care contine drept cheie o licitatie
+	si drept valoare suma maxima care s-a oferit la pasul curent pentru
+	produsul licitat.
+
+Broker
+	Intre Client si Broker este implementat design pattern-ul 
+	Observer. Brokerul notifica clientul atunci cand incepe o licitatie,
+	si pentru fiecare pas al licitatiei, notifica suma maxima care
+	s-a oferit pentru produs.
+
+CasaLicitatii
+	Intre CasaLicitatii si Broker este implementat Observer.
+	CasaLicitatii implementeaza Singleton.
+	Lista de produse este sincronizata.
+
+Licitatie
+	Implementeaza Runnable si defineste metoda run().
+	Fiecare licitatie se desfasoara pe un Thread separat.
